@@ -1,9 +1,9 @@
 const cacheName = "DolgionValentin-DogDays-0.1";
 const contentToCache = [
     "Build/ExhibitionBuild.loader.js",
-    "Build/ExhibitionBuild.framework.js.gz",
-    "Build/ExhibitionBuild.data.gz",
-    "Build/ExhibitionBuild.wasm.gz",
+    "Build/ExhibitionBuild.framework.js.br",
+    "Build/ExhibitionBuild.data.br",
+    "Build/ExhibitionBuild.wasm.br",
     "TemplateData/style.css"
 
 ];
